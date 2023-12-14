@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">clubVictor</string>
+
+    <string name="nombre">Nombre y Apellido:</string>
+    <string name="txt_nombre">Ingrese el Nombre Completo</string>
+    <string name="carrera">Carrera</string>
+    <string name="txt_carrera">Ingrese los Datos Requeridos</string>
+    <string name="correo">Correo</string>
+    <string name="txt_correo">Introduzca Correo Electronico</string>
+    <string name="telefono">Telefono</string>
+    <string name="txt_telefono">Introduzca Numero de Telefono</string>
+    <string name="ci">Cedula de Identidad </string>
+    <string name="txt_ci">Introduzca el Numero de documento</string>
+
+    <string name="txt_descrip"   > Bienvenidos al Club de Baloncesto:\n
+
+          Aquí encontrarás una comunidad de amantes del baloncesto unidos por el amor a este emocionante deporte.
+Desde la sección principal de nuestra aplicación, podrás interactuar con los miembros y participar en nuestras actividades.
+¡Únete a nosotros y forma parte de nuestra familia de baloncesto! </string>
+
+
+    <string name="btn_guardar">Guardar</string>
+    <string name="btn_inicio">Inicio</string>
+</resources>
